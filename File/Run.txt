@@ -1,0 +1,6 @@
+
+How to run the program:
+	Type the following command into terminal: java -jar 
+	Then drag the SpreadsheetCombiner.jar file into terminal
+	Then press enter
+	Follow onscreen instructions ^.^
